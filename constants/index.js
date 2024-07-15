@@ -1,17 +1,23 @@
-const NAV_Links = [
-    {
-      "label": "Home",
-      "path": "/home"
-    },
-    {
-      "label": "Rent",
-      "path": "/rent"
-    },
-    {
-      "label": "Know About Us",
-      "path": "/know-about-us"
-    }
-  ]
+export const NAV_Links = [
+  {
+    label: "Home",
+    path: "/home",
+  },
+  {
+    label: "Rent",
+    path: "/rent",
+  },
+  {
+    label: "Know About Us",
+    path: "/know-about-us",
+  },
+];
 
-  export default NAV_Links;
-  
+// constants/index.js
+export const PROPERTY_TYPES = [
+  { value: "office", label: "Office" },
+  { value: "coworking", label: "Coworking Space" },
+  { value: "industrial", label: "Industrial Space" },
+  { value: "retail", label: "Retail Space" },
+  { value: "disabled", label: "Disabled", disabled: true },
+];
