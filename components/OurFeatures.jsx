@@ -20,9 +20,9 @@ const OurFeatures = () => {
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
-              <h1 className="text-xl font-bold">100% Secure</h1>
+              <h1 className="text-xl font-bold">Flexible Space Options</h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur. Quis nam in nulla scele
+              Offer a variety of spaces such as offices, labs, studios, and living spaces to cater to different needs.
               </p>
             </div>
             <div className="bg-white rounded-md px-8 py-5 space-y-2">
@@ -30,9 +30,9 @@ const OurFeatures = () => {
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
-              <h1 className="text-xl font-bold">100% Secure</h1>
+              <h1 className="text-xl font-bold">Affordable Pricing</h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur. Quis nam in nulla scele
+              Provide cost-effective solutions by allowing users to share spaces, reducing individual costs
               </p>
             </div>
             <div className="bg-white rounded-md px-8 py-5 space-y-2">
@@ -40,9 +40,9 @@ const OurFeatures = () => {
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
-              <h1 className="text-xl font-bold">100% Secure</h1>
+              <h1 className="text-xl font-bold">Reposting and Booking Management</h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur. Quis nam in nulla scele
+              Enable users to repost listings and manage bookings, ensuring optimal utilization of spaces.
               </p>
             </div>
           </div>
@@ -65,9 +65,9 @@ const OurFeatures = () => {
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
-              <h1 className="text-xl font-bold">100% Secure</h1>
+              <h1 className="text-xl font-bold">User Reviews and Ratings</h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur. Quis nam in nulla scele
+              Allow users to leave reviews and ratings for spaces, helping others make informed decisions
               </p>
             </div>
             <div className="bg-white rounded-md px-8 py-5 space-y-2">
@@ -75,9 +75,9 @@ const OurFeatures = () => {
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
-              <h1 className="text-xl font-bold">100% Secure</h1>
+              <h1 className="text-xl font-bold">Easy Search and Filter</h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur. Quis nam in nulla scele
+              Implement advanced search and filter options to help users quickly find spaces that meet their specific requirements.
               </p>
             </div>
             <div className="bg-white rounded-md px-8 py-5 space-y-2">
@@ -85,9 +85,9 @@ const OurFeatures = () => {
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
-              <h1 className="text-xl font-bold">100% Secure</h1>
+              <h1 className="text-xl font-bold">Collaborative Environment</h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur. Quis nam in nulla scele
+              Promote a community-focused platform where users can collaborate, share resources, and network with like-minded individuals
               </p>
             </div>
           </div>
