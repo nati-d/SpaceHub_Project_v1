@@ -1,6 +1,6 @@
 import { Grid } from "@mantine/core";
 import React from "react";
-import { SecurityScanOutlined } from "@ant-design/icons";
+import { DollarOutlined, SecurityScanOutlined } from "@ant-design/icons";
 
 const OurFeatures = () => {
   return (
@@ -26,7 +26,7 @@ const OurFeatures = () => {
               </p>
             </div>
             <div className="bg-white rounded-md px-8 py-5 space-y-2">
-              <SecurityScanOutlined
+              <DollarOutlined
                 className="text-blue-10 text-xl"
                 style={{ fontSize: "26px", color: "#3a7ff4" }}
               />
