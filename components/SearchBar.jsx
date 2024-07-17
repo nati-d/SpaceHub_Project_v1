@@ -23,7 +23,6 @@ const SearchBar = () => {
           { value: "coworking", label: "Coworking Space" },
           { value: "industrial", label: "Industrial Space" },
           { value: "retail", label: "Retail Space" },
-          { value: "disabled", label: "Disabled", disabled: true },
         ]}
       />
       <Select
@@ -34,11 +33,10 @@ const SearchBar = () => {
         size="large"
         onChange={handleChange}
         options={[
-          { value: "office", label: "Office" },
-          { value: "coworking", label: "Coworking Space" },
-          { value: "industrial", label: "Industrial Space" },
-          { value: "retail", label: "Retail Space" },
-          { value: "disabled", label: "Disabled", disabled: true },
+          { value: "Piyassa", label: "Piyassa" },
+          { value: "mexico", label: "Mexico" },
+          { value: "bole", label: "Bole" },
+          { value: "Jemo", label: "jemo" },
         ]}
       />
       <Button size="large" type="primary">Search</Button>

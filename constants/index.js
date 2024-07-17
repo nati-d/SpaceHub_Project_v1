@@ -1,7 +1,7 @@
 export const NAV_Links = [
   {
     label: "Home",
-    path: "/home",
+    path: "/",
   },
   {
     label: "Rent",

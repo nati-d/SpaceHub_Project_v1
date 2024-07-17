@@ -94,18 +94,8 @@ const DetailPage = () => {
               <h1 className="text-2xl font-bold">Pricing Plan</h1>
               <hr />
             <TabsSection/>
-              <div className="flex flex-col items-center justify-center">
-                <h1 className="font-bold text-6xl">
-                  4<span className="text-base">/5</span>
-                </h1>
-                <div className="flex gap-2">
-                  <FaStar color="gold" />
-                  <FaStar color="gold" />
-                  <FaStar color="gold" />
-                  <FaStar color="gold" />
-                  <FaStar color="gold" />
-                </div>
-              </div>
+            <h1 className="text-2xl font-bold">User Review</h1>
+            <hr />
 
               <ReviewCard />
             </div>
